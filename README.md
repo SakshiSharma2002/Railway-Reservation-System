@@ -50,11 +50,10 @@ The structure PASSENGER have following data members:
 8. mob_no :- string(for storing passenger's mobile number).
 
 ## THE "MAIN SCREEN" OF THE PROJECT
-============================================================================================
 
 ![Main Screen](https://user-images.githubusercontent.com/77681258/153720843-07c94706-16cd-4c66-9e49-a769adf01457.jpg)
 
 ## VIDEO OF THE PROJECT
-============================================================================================
+
 https://user-images.githubusercontent.com/77681258/153721731-3bacf6fe-7c61-42e0-9f87-cd45ac6790e7.mp4
 
