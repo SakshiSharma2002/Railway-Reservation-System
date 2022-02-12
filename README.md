@@ -20,7 +20,7 @@ Overall , the project "Railway Reservation System" , have the following screens:
 Before designing the Main Screen , we need to do the following:
 1. Add support of conio2.h in the project.
 2. Create a header file called "rlyres.h" which will contain structure declarations, typedef statements and function declarations.
-3.Create a source code file called "rlyres.c" which will contain definitions of the functions declared in the file "rlyres.h". 
+3. Create a source code file called "rlyres.c" which will contain definitions of the functions declared in the file "rlyres.h". 
 
 ## ADDING "conio2.h" SUPPORT
 1. Create the project "Railway Reservation System" in CODEBLOCKS.
@@ -34,20 +34,20 @@ The project have 2 structures called "TRAIN" and "PASSENGER" .
 
 The structure TRAIN have following data members:
 1. train_no :- string (for storing train number).
-2. from:- string (for storing FROM station code).
-3. to:- string(for storing TO station code).
-4. fac_fare:- int (for storing fare amount of FIRST AC).
-5. sac_fare:- int(for storing fare amount of SECOND AC). 
+2. from :- string (for storing FROM station code).
+3. to :- string(for storing TO station code).
+4. fac_fare :- int (for storing fare amount of FIRST AC).
+5. sac_fare :- int(for storing fare amount of SECOND AC). 
 
 The structure PASSENGER have following data members:
 1. p_name :- string (for storing name of the passenger).
-2. gender:- char (for storing gender of the passenger as M or F).
-3. train_no:- string(for storing train number).
-4. p_class:- char (for storing the F for FIRST AC and S for SECOND AC).
-5. address:- string(for address of the passenger).
-6. age:int (for storing passenger's age).
-7. ticketno:- int(for storing ticket number).
-8. mob_no:-string(for storing passenger's mobile number).
+2. gender :- char (for storing gender of the passenger as M or F).
+3. train_no :- string(for storing train number).
+4. p_class :- char (for storing the F for FIRST AC and S for SECOND AC).
+5. address :- string(for address of the passenger).
+6. age :- int (for storing passenger's age).
+7. ticketno :- int(for storing ticket number).
+8. mob_no :- string(for storing passenger's mobile number).
 
 ## THE "MAIN SCREEN" OF THE PROJECT
 ============================================================================================
