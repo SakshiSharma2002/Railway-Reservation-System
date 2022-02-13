@@ -19,8 +19,8 @@ Overall , the project "Railway Reservation System" , have the following screens:
 
 Before designing the Main Screen , we need to do the following:
 1. Add support of conio2.h in the project.
-2. Create a header file called "rlyres.h" which will contain structure declarations, typedef statements and function declarations.
-3. Create a source code file called "rlyres.c" which will contain definitions of the functions declared in the file "rlyres.h". 
+2. Create a header file called "rlyres.h" which contains structure declarations, typedef statements and function declarations.
+3. Create a source code file called "rlyres.c" which contains definitions of the functions declared in the file "rlyres.h". 
 
 ## ADDING "conio2.h" SUPPORT
 1. Create the project "Railway Reservation System" in CODEBLOCKS.
