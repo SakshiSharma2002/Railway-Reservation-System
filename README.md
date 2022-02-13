@@ -28,7 +28,7 @@ Before designing the Main Screen , we need to do the following:
 3. Unzip the file and copy 2 files "conio.c" and "conio2.h" from it into your project folder.
 4. Now we can call all BORLAND style functions like clrscr(),getch(), textcolor(),gotoxy() etc in the project.
 
-## STRUCTURES
+## STRUCTURE DECLARATIONS
 
 The project have 2 structures called "TRAIN" and "PASSENGER" .
 
